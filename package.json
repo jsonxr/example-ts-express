@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "description": "Example project using express and typescript",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsonxr/example-ts-express.git"
+  },
   "scripts": {
     "start": "npm run serve",
     "prettier": "tslint src/**/*.ts --fix",
